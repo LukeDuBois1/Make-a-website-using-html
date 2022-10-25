@@ -1,0 +1,26 @@
+<! DOCTYPE html>
+<html>
+
+<head>
+
+    <h1> <font> <center> <p style="color:turquoise;">My Website</p> </center> </font> </h1> 
+
+    </head>
+
+    <body>
+
+      <center> <img src="https://thumbs.dreamstime.com/b/welkom-welcome-dutch-language-holland-netherlands-yes-91748417.jpg"> </center>  
+
+
+      <i> <font size="+4"> <center>This is where I upload my most used links:</center> </font> </i>
+    
+<center> <button> <font size="+2"> <a href="https://www.winguacademy.co.za/calendar/view.php?view=month#">winguacademy </a></font> </button> </center>
+
+
+<center> <button> <font size="+2"> <a href="https://mail.google.com/mail/u/0/">Gmail</a> </font> </button> </center>
+
+
+    </body> 
+
+    </html>
+     
